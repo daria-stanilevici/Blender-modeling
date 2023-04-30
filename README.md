@@ -1,4 +1,4 @@
-Welcome to my "Blender" GitHub repository!
+Welcome to my Blender repository!
 
 Here, you will find a collection of my personal works created using Blender, a 3D modeling that I enjoy doing as a hobby in my spare time.
 
