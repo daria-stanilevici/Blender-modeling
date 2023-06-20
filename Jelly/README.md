@@ -1,5 +1,5 @@
 Cute and scrumptious red jelly with cherries and whipped cream on top!
-![Jelly!](Images/Jelly.png)
+
 Just Blender and 15 minutes. While it may have been a quick project, I am very happy with the results and think it turned out adorable.
 
 As a 3D artist, it's important to not only showcase complex and time-consuming projects but also to highlight the beauty in simplicity.
@@ -12,3 +12,9 @@ If you're interested in seeing more of my 3D art, I invite you to visit my ArtSt
 There, you can find a wider variety of my personal and professional works, as well as my latest updates and projects.
 
 Thank you for visiting my repository, and I hope you enjoy my Blender creations!
+
+![Jelly!](Images/Jelly.png)
+
+![Jelly!](Images/Cherrys.png)
+
+![Whipped cream!](https://github.com/dariastnl/Blender/blob/main/Jelly/Images/Cream%20on%20top.png?raw=true)
