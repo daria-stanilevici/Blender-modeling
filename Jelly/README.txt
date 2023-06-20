@@ -1,6 +1,6 @@
 Cute and scrumptious red jelly with cherries and whipped cream on top!
 
-![Jelly](https://github.com/dariastnl/Blender/assets/62720323/f7ca32e3-5624-4519-8ae3-3bb7101398d1)
+![Jelly!](Jelly.png)
 
 Just Blender and 15 minutes. While it may have been a quick project, I am very happy with the results and think it turned out adorable.
 
