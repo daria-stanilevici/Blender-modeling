@@ -12,3 +12,9 @@ If you appreciate my work and would like to support me or collaborate on a proje
 If you're interested in seeing more of my 3D art, I invite you to visit my ArtStation portfolio at https://www.artstation.com/daria_stnl. There, you can find a wider variety of my personal and professional works, as well as my latest updates and projects.
 
 Thank you for visiting my repository, and I hope you enjoy my Blender creations!
+
+![Baloon Dog!](Images/DogBaloonHearts.png)
+
+![Baloon Dog!](Images/DogNoseBaloon.png)
+
+![Baloon Dog!](Images/DogXBaloons.png)
