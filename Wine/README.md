@@ -1,7 +1,7 @@
 # Wine
 
-Since I am coming from Moldova, I decided to do the 3D model of a wine bottle for the prestigious PURCARI winery based in my country.
-The goal of this project is to create a realistic and visually appealing 3D representation of the PURCARI wine bottle with basic plate of dishes like grape and cheese.
+Since I am coming from Moldova, I decided to do the 3D model of a wine bottle for the prestigious PURCARI 1827 winery based in my country.
+The goal of this project is to create a realistic and visually appealing 3D representation of the PURCARI 1827 wine bottle with basic plate of dishes like grape and cheese.
 
 If you appreciate my work and would like to support me or collaborate on a project, please feel free to reach out to me via email at dstanilevichi@gmail.com. 
 I am always open to new ideas and partnerships in the world of 3D graphics, and any contributions or feedback are greatly appreciated.
@@ -15,9 +15,4 @@ Thank you for visiting my repository, and I hope you enjoy my Blender creations!
 
 ![Top View!](Images/wineTopView.png)
 
-![Wine and Grapes!](Images/wineAndGrapes.png)
-
-![Glasses!](Images/glasseswithwine.png)
-
-
-
+![Glasses!](Images/glassesWithWine.png)
